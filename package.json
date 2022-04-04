@@ -1,0 +1,26 @@
+{
+  "name": "mark-anthony-pascual-portfolio",
+  "version": "1.0.0",
+  "description": "This is a Portfolio Website for Mark Anthony Pascual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node-sass --watch assets/scss/app.scss -o assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapascualworks/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Mark Anthony Pascual",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapascualworks/portfolio/issues"
+  },
+  "homepage": "https://github.com/mapascualworks/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
